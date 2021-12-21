@@ -25,8 +25,8 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: https://olabayoji.github.io/tip-calculator-app-react-
-- Solution URL: https://github.com/Olabayoji/tip-calculator-app-react-
+- Live Site URL: https://olabayoji.github.io/Food-Web-App
+- Solution URL: https://github.com/Olabayoji/Food-Web-App
 
 
 ## My Process
