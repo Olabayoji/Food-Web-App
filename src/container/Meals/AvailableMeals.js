@@ -11,7 +11,7 @@ export default function AvailableMeals() {
     const fetchMeals = async () => {
       setIsLoading(true);
       const response = await fetch(
-        "https://food-app-5b454-default-rtdb.firebaseio.com/meals.son"
+        "https://food-app-5b454-default-rtdb.firebaseio.com/meals.json"
       );
       if (!response.ok) {
         throw new Error("Something went wrong");
