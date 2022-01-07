@@ -40,6 +40,9 @@ Users should be able to:
 - Manage state logic using useReducer. 
 - Pass data through the component tree without having to pass props down manually at every level by using React Context
 - Prevent reloading of an app when submitting a form using event.preventDefault()
+- Form validation and validation feedback
+- How to build custom hooks 
+- How to handle loading state
 
 
 ### Continued Development 
